@@ -17,7 +17,7 @@ on akse ro vel konid
 
 SHOWCASE:
 
-![LEGITCLIENT!!](https://raw.githubusercontent.com/bridgerzan/mihancraft-mod/refs/heads/main/%7BE76CC15B-0B80-4A51-B392-EB01DE7A2BCA%7D.png)
+![LEGITCLIENT!!](https://raw.githubusercontent.com/bridgerzan/mihancraft-mod/refs/heads/main/main.png)
 
 ![MODS](https://raw.githubusercontent.com/bridgerzan/mihancraft-mod/refs/heads/main/mods.png)
 
